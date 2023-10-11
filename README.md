@@ -4,15 +4,6 @@
 
 </div>
 
-<div align="center">
-
-  <h3>💡 My Git Stats 💡</h3>
-  
-  <a href="https://github.com/ChaNyeok1225">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaNyeok1225" />
-  </a>
-
-</div>
 
 <div align="center">
   <h3> 💻 Study Log </h3>
