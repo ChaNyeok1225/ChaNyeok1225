@@ -5,17 +5,25 @@
 </div>
 
 <div align="center">
-  <h2> 💻 Study Log </h2>
+
+  <h3>💡 My Git Stats 💡</h3>
   
+  <a href="https://github.com/ChaNyeok1225">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaNyeok1225" />
+  </a>
+
+</div>
+
+<div align="center">
+  <h3> 💻 Study Log </h3>
+
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjj5530)](https://solved.ac/jjj5530)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaNyeok1225&show_icons=true&theme=vue)
 
 </div>
 <div name="badge" align="center"> 
 
-  <h2> ✏ Stack </h2>
+  <h3> ✏ Stack </h3>
     
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
