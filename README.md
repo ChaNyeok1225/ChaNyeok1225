@@ -5,6 +5,16 @@
 </div>
 
 <div align="center">
+  <h3> 💻 PS Log </h3>
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjj5530)](https://solved.ac/jjj5530)
+
+[![코드트리|실력진단-cksgur5530](https://banner.codetree.ai/v1/banner/cksgur5530)](https://www.codetree.ai/profiles/cksgur5530)
+
+</div>
+
+<div align="center">
 <h3>💡 My Most Used Languages 💡</h3>
   <a href="https://github.com/ChaNyeok1225">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaNyeok1225&layout=compact&theme=vue" />
@@ -16,15 +26,8 @@
   </a>
 </div>
 
-<div align="center">
-  <h3> 💻 PS Log </h3>
 
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjj5530)](https://solved.ac/jjj5530)
 
-[![코드트리|실력진단-cksgur5530](https://banner.codetree.ai/v1/banner/cksgur5530)](https://www.codetree.ai/profiles/cksgur5530)
-
-</div>
 <div name="badge" align="center"> 
 
   <h3> ✏ Stack </h3>
