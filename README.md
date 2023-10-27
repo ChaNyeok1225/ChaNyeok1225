@@ -17,10 +17,12 @@
 </div>
 
 <div align="center">
-  <h3> 💻 Study Log </h3>
+  <h3> 💻 PS Log </h3>
 
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjj5530)](https://solved.ac/jjj5530)
+
+[![코드트리|실력진단-cksgur5530](https://banner.codetree.ai/v1/banner/cksgur5530)](https://www.codetree.ai/profiles/cksgur5530)
 
 </div>
 <div name="badge" align="center"> 
